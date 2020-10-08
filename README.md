@@ -4,6 +4,6 @@
 - 项目工具：Idea、Maven
 - 项目展示：
 
-![image](https://github.com/famdetxire/almostchat/blob/master/README/image-20201008160439648.png)
-![image](https://github.com/famdetxire/almostchat/blob/master/README/image-20201008160509147.png)
+![image-20201008160439648](https://github.com/famdetxire/almostchat/blob/master/README/image-20201008160439648.png)
+![image-20201008160509147](https://github.com/famdetxire/almostchat/blob/master/README/image-20201008160509147.png)
 
