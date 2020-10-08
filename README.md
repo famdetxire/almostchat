@@ -5,7 +5,7 @@
 - 项目展示：
 
 ![image-20201008160439648](README/image-20201008160439648.png)
-![image](https://github.com/famdetxire/almostchat/edit/master/README/image-20201008160439648.png)
+![image-20201008160439648](https://github.com/famdetxire/almostchat/edit/master/README/image-20201008160439648.png)
 README/image-20201008160439648.png
 
 ![image-20201008160509147](README/image-20201008160509147.png)
